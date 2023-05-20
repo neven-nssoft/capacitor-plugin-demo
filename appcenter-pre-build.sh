@@ -1,0 +1,3 @@
+- `npm install` to ensure all dependencies are installed.
+- `npm run build` to build your web assets (this command may vary depending on your setup).
+- `npx cap sync` to copy the built web assets into the native project.
