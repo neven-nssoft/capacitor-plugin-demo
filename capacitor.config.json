@@ -1,0 +1,23 @@
+{
+  "appId": "dev.robingenz.capacitor.plugindemo",
+  "appName": "capacitor-plugin-demo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "PrivacyScreen": {
+      "enable": false
+    },
+    "Badge": {
+      "persist": true,
+      "autoClear": true
+    },
+    "DatetimePicker": {
+      "theme": "auto"
+    }
+  },
+  "cordova": {}
+}
