@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Go to the directory where your Capacitor project is located.
-cd $APPCENTER_SOURCE_DIRECTORY
+#cd $APPCENTER_SOURCE_DIRECTORY
 
 # Install npm dependencies
 npm install
